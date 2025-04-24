@@ -1,0 +1,7 @@
+{
+  "name": "ExtremeGaming",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
